@@ -1,0 +1,5 @@
+// SAME PLACE 设备推送公钥配置
+
+window.SAME_PLACE_VAPID_PUBLIC_KEY = BLbR0Eb4mRdgehcPtBSc7a
+tfjF7Kjxk2Uec7mNYitvKNevvHpID6_LjLpXH09
+magNpad2YE8hPW18TGpWLQ7EDg;
